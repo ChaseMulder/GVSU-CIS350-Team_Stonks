@@ -1,5 +1,5 @@
 # Team Stonks
-![alt text](https://user-images.githubusercontent.com/77690673/190922359-5a61f512-3e30-4dbf-b5a3-3852c024f0cf.png)
+![alt text](https://user-images.githubusercontent.com/77690673/190922359-5a61f512-3e30-4dbf-b5a3-3852c024f0cf.png](https://www.philips.com/c-dam/corporate/research/blog/youtube-microsoft-hololens.jpg)
 
 Raspberry-Pi based IoT device that watches stock tickers and displays them on a LED\LCD screen. All configuration is done via a built-in web interface.
 
