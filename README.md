@@ -1,5 +1,5 @@
 # Team Stonks
-![alt text](https://user-images.githubusercontent.com/77690673/190922323-f7940673-42eb-428b-afa0-7249c294a3c6.png)
+![alt text](https://user-images.githubusercontent.com/77690673/190922359-5a61f512-3e30-4dbf-b5a3-3852c024f0cf.png)
 
 Raspberry-Pi based IoT device that watches stock tickers and displays them on a LED\LCD screen. All configuration is done via a built-in web interface.
 
